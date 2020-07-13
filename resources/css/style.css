@@ -1,0 +1,60 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#discover {
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+#your {
+    font-size: 42px;
+    font-weight: 300;
+    text-align: center;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+#camp {
+    text-align: center;
+}
+
+#phone {
+    text-align: center;
+}
+
+#coming {
+    font-size: 42px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h4 {
+    text-align: center;
+}
+
+#vid {
+    text-align: center;
+}
+
+#copyright {
+    color: gray;
+    text-align: right;
+}
